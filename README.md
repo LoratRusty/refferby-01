@@ -1,7 +1,5 @@
 ### Estructura para "Refferby"
 
-Como programador senior, te presento la estructura recomendada para tu proyecto de marketplace con sistema de referidos.
-
 ## Visión General del Proyecto
 
 Refferby será un marketplace donde los vendedores pueden crear carritos de compra para sus clientes mediante links de referidos, generando comisiones por ventas. El sistema tendrá cuatro tipos de usuarios con diferentes permisos y funcionalidades.
@@ -572,16 +570,16 @@ graph TD
 
 - Sistema de reseñas y valoraciones
 - Programa de fidelización
-- Chat en vivo para vendedores-clientes
+- Chat en vivo para vendedores-clientes (No requerdo por los momentos)
 - Integración con redes sociales
-- Aplicación móvil nativa
+- Aplicación móvil nativa (No requerdo por los momentos)
 
 
 ### Integraciones Recomendadas
 
 - Pasarelas de pago (Stripe, PayPal, etc.)
 - Servicios de envío y tracking
-- Herramientas de análisis (Google Analytics, Mixpanel)
+- Herramientas de análisis (Google Analytics, Mixpanel) (No requerdo por los momentos)
 - CRM para gestión de clientes
 - Herramientas de marketing por email
 
