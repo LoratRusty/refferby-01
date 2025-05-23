@@ -1,8 +1,8 @@
-### Estructura para "Refferby"
+### Estructura para "Referbby"
 
 ## Visión General del Proyecto
 
-Refferby será un marketplace donde los vendedores pueden crear carritos de compra para sus clientes mediante links de referidos, generando comisiones por ventas. El sistema tendrá cuatro tipos de usuarios con diferentes permisos y funcionalidades.
+Referbby será un marketplace donde los vendedores pueden crear carritos de compra para sus clientes mediante links de referidos, generando comisiones por ventas. El sistema tendrá cuatro tipos de usuarios con diferentes permisos y funcionalidades.
 
 ```mermaid
     erDiagram
